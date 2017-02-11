@@ -10,7 +10,6 @@ page = (function() {
 	}
 	return {
 		initialize: function() {
-			createHeader();
 			createButton();
 		}
 	}
