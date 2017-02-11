@@ -8,9 +8,6 @@ page = (function() {
 			_panelNumber++;
 		});
 	}
-	function createHeader() {
-
-	}
 	return {
 		initialize: function() {
 			createHeader();
